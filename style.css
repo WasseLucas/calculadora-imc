@@ -1,4 +1,7 @@
-
+body{
+   background-image: linear-gradient( to bottom ,#3198E2,#6D59C0,#B93590,#E33F5F,#FDD579 );
+   background-attachment: fixed;
+}
 main{
    display: flex;
    width: 100vw;
@@ -14,10 +17,10 @@ main{
    align-items: center;
    justify-content: space-evenly;
    border-radius: 25px;
-   box-shadow: 0 0 10px black;
-   box-shadow: 2px 2px 30px rgb(6, 10, 241);
+   box-shadow: 4px 4px 40px rgb(6, 10, 241);
 }
 .title {
+   color: black;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -26,9 +29,6 @@ main{
    font: bold 2.5rem serif;
    border-bottom: solid 5px black;
    margin-bottom: 20px;
-   
-
-   
 }
 .input{
    display: flex;
