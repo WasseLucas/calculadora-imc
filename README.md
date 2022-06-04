@@ -1,4 +1,4 @@
-# calculadora-imc
+# Calculadora-imc
 
 <b>Programa para calcular índice de massa corpórea </b>
 
